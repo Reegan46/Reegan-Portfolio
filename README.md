@@ -36,7 +36,7 @@ I’ve highlighted my **skills, professional experience, and real-world projects
 ### 🔗 Live Demo
 
 🌍 **Check out the live website here:**  
-👉 [https://Reegan-Portfolio.vercel.app](https://reegan-portfolio.vercel.app/)
+👉 [https://reegan-portfolio.vercel.app](https://reegan-portfolio.vercel.app)
 
 ---
 
