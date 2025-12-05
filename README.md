@@ -1,8 +1,8 @@
 <h2 align="center">🌐 My Portfolio & Resume Website</h2>
 
 <p align="center">
-  <a href="https://karunakaran-dev.vercel.app" target="_blank">
-    <img src="https://github.com/Karunakaran2/Karunakaran-Portfolio/blob/main/public/assets/website-profile-preview.png" alt="Karunakaran Portfolio Website" width="85%" style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
+  <a href="https://reegan-portfolio.vercel.app/" target="_blank">
+    <img src="https://github.com/Reegan46/Reegan-Portfolio/blob/main/public/images/project/porfolio1.png" alt="Reegan-Portfolio Website" width="85%" style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
@@ -36,20 +36,20 @@ I’ve highlighted my **skills, professional experience, and real-world projects
 ### 🔗 Live Demo
 
 🌍 **Check out the live website here:**  
-👉 [https://karunakaran-dev.vercel.app](https://karunakaran-dev.vercel.app)
+👉 [https://Reegan-Portfolio.vercel.app](https://reegan-portfolio.vercel.app/)
 
 ---
 
 ### 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/Karunakaran2/Karunakaran-Portfolio/blob/main/public/assets/website-preview.png" alt="Portfolio Website Screenshot" width="90%" style="border-radius:10px; margin-top:10px;" />
+  <img src="https://github.com/Reegan46/Reegan-Portfolio/blob/main/public/images/project/porfolio2.png" alt="Portfolio Website Screenshot" width="90%" style="border-radius:10px; margin-top:10px;" />
 </p>
 
 ---
 
 ⭐ If you like the design or find inspiration from it, feel free to **star the repo** or connect with me on  
-[LinkedIn](https://www.linkedin.com/in/karunakaran-s-14b429192) • [GitHub](https://github.com/Karunakaran2)
+[LinkedIn](https://www.linkedin.com/in/reegan-a-062b84369) • [GitHub](https://github.com/Reegan46)
 
 ---
 
