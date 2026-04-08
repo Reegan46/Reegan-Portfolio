@@ -58,7 +58,7 @@ export default function About() {
             <div className="absolute bottom-5 left-5 text-white">
               <h3 className="text-2xl text-white font-semibold">Reegan</h3>
               <p className="text-sm opacity-80 text-white">
-                Frontend Developer
+                Software Engineer
               </p>
             </div>
           </div>
@@ -72,11 +72,11 @@ export default function About() {
           <p className="text-base sm:text-lg leading-relaxed">
             Hey there 👋 I’m <Name className="font-semibold">Reegan</Name>, a{" "}
             <span className="font-medium text-orange-400">
-              frontend developer
+             Software Engineer
             </span>{" "}
             Passionate about building smooth, responsive, and elegant user
-            interfaces with{" "}
-            <strong>React, JavaScript, Bootstrap, CSS, and HTML</strong>.
+            interfaces using{" "}
+            <strong>React, JavaScript, Bootstrap, CSS, and HTML</strong>while also developing scalable backend applications with <strong>Java (Spring Boot) and MySQL</strong>.
             <br />
             <br />I enjoy crafting clean, efficient code and creating interfaces
             that feel natural and lightning-fast. I focus on
@@ -119,7 +119,7 @@ export default function About() {
           </div>
           {/* Contact Button */}
           <motion.a
-            href="/resume/reeganA_resume.pdf"
+            href="/resume/Reegan_Software_Engineer.pdf"
             download
             onClick={handleResumeClick}
             className="w-fit shadow-md modern-btn"

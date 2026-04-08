@@ -97,11 +97,10 @@ export default function Banner() {
                 <h1>
                   Reegan A
                   <br />
-                  <span>Frontend Software Engineer</span>
+                  <span>Software Engineer</span>
                 </h1>
                 <p>
-                  Frontend Developer focused on crafting responsive and user-friendly web interfaces using React, JavaScript, Bootstrap, CSS, and HTML.
-                </p>
+                  Java Full Stack Developer focused on building responsive and scalable web applications using React.js, Java (Spring Boot), MySQL, Rest API, HTML, CSS, and JavaScript.                                   </p>
                 <motion.a
                   href="mailto:reeganr897@gmail.com"
                   whileHover={{ scale: 1.05 }}

@@ -24,7 +24,7 @@ export default function Home() {
         id="about"
         className="container"
         title="Who I Am"
-        subtitle="A Frontend Developer focused on creating clean, modern, and user-friendly digital experiences."
+        subtitle="A Software Engineer focused on creating clean, modern, and user-friendly digital experiences, with expertise in both frontend and backend development."
       >
         <About />
       </Section>
@@ -32,7 +32,7 @@ export default function Home() {
         id="skills"
         className="container"
         title="What I’m Good At"
-        subtitle="The tools and technologies that power my front-end craft."
+        subtitle="The tools and technologies that power my full-stack development."
       >
         <Skills />
       </Section>
@@ -40,7 +40,7 @@ export default function Home() {
         id="experience"
         className="container"
         title="How My Journey Began"
-        subtitle="Projects that helped me improve and grow as a frontend developer"
+        subtitle="Projects that helped me improve and grow as a Software Engineerr"
       >
         <Experience />
       </Section>
