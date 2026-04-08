@@ -40,7 +40,7 @@ export default function Home() {
         id="experience"
         className="container"
         title="How My Journey Began"
-        subtitle="Projects that helped me improve and grow as a Software Engineerr"
+        subtitle="Projects that helped me improve and grow as a Software Engineer"
       >
         <Experience />
       </Section>
